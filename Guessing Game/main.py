@@ -15,7 +15,7 @@ def guess(number, guesses):
             return
         else:
             guessNumber = 5 - guesses
-            print(f'Wrong... try again! You have {guessNumber} left!')
+            print(f'Wrong... try again! You have {guessNumber} guess left!')
             guesses = guesses + 1
             guess(number, guesses)
 
