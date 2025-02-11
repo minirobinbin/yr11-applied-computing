@@ -26,3 +26,11 @@ with open(OutputFile, 'w') as f:
     f.write('\n')
     f.write(f'{team2} scored {team2score} times')
     f.close()
+
+print(f"{team1} scored {team1score} times")
+print(f"{team2} scroed {team2score} times")
+if team1score > team2score:
+    winner = team1
+else:
+    winner = team2
+print(f"Therefore, {winner} won!")
