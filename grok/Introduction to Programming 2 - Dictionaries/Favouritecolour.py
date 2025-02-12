@@ -1,6 +1,11 @@
 dictionary = {}
 
-input = input("what: ")
+namecolour = input('Name and colour: ')
+while namecolour:
+  name, colour = namecolour.split()
+  dictionary[name] = colour
+  namecolour = input('Name and colour: ')
 
-while input:
-    
+
+for name, colour in dictionary.items():
+    print(f'{name} {colour}')
