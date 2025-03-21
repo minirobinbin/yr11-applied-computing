@@ -1,0 +1,15 @@
+Senior member of staff cost:
+----------------------------
+ID  staff member     salary
+542 Alice Johnson    $80000
+624 Michael Brown    $90000
+982 Ethan Hall       $110000
+854 Noah Brooks      $100000
+293 Sophia Rodriguez $70000
+752 Charlotte Lewis  $75000
+216 Elijah Martin    $105000
+935 Eleanor Walker   $95000
+817 Caleb Kim        $72000
+654 Aiden Foster     $78000
+----------------------------
+Total Cost:          $875000         

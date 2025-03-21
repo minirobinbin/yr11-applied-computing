@@ -1,6 +1,6 @@
 from tkinter import Tk, Frame, Label, Entry, Button, StringVar, Radiobutton, END
 from tkinter.ttk import Combobox
-# from PIL import Image, ImageTk
+from PIL import Image, ImageTk
 
 teams = {}
 
@@ -213,13 +213,13 @@ frame3 = Frame(root, width=150, height=150)
 frame3.grid(column=3, row=1, sticky="nesw")
 
 # Load and display the logo image
-# image_path = "cricket-logo.gif"
-# logo_image = Image.open(image_path)
-# logo_image = logo_image.resize((200, 200))  # Resize the image for better fit
-# logo_photo = ImageTk.PhotoImage(logo_image)
+image_path = "tkinter apps/SACs/sac part1/cricket-logo.gif"
+logo_image = Image.open(image_path)
+logo_image = logo_image.resize((200, 200))  # Resize the image for better fit
+logo_photo = ImageTk.PhotoImage(logo_image)
 
-# logo_label = Label(frame3, image=logo_photo)
-# logo_label.pack(pady=20)
+logo_label = Label(frame3, image=logo_photo)
+logo_label.pack(pady=20)
 
 # Frame 4: Submit Frame
 frame4 = Frame(root, width=200, height=50)
