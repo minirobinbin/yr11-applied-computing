@@ -6,7 +6,7 @@ def save_to_csv():
     data = [entry1.get(), entry2.get(), entry3.get()]
     determine = list(entry2.get())
     # open a csv file called data.csv in the write mode, create a writer, and write data as a row
-    with open('data.csv','r', newline='') as file:
+    with open('tkinter apps/Signinpage/data.csv','r', newline='') as file:
         reader = csv.reader(file)
         has_uppercase = any(char.isupper() for char in determine) 
         has_lowercase = any(char.islower() for char in determine) 
@@ -18,7 +18,7 @@ def save_to_csv():
             elif entry2.get() != entry3.get():
                 status_label.config(text="not same password!")
             else:
-                with open('data.csv','a', newline='') as file_append:
+                with open('tkinter apps/Signinpage/data.csv','a', newline='') as file_append:
                     writer = csv.writer(file_append)
                     writer.writerow(data)
                     status_label.config(text="Data saved to data.csv!")
@@ -57,7 +57,7 @@ def remove_placeholder(entry, placeholder):
     # Function to remove the placeholder if it's currently displayed
     if entry.get() == placeholder:
         entry.delete(0, tk.END)
-        entry.config(fg='black')
+        entry.config(fg='white')
 
 # Create the main window
 root = tk.Tk()
@@ -69,7 +69,7 @@ status_label = tk.Label(root, text="")
 status_label.pack()
 
 # Create and place entry widgets
-entry1 = tk.Entry(root)
+entry1 = tk.Entry(root, show="he")
 entry1.pack()
 entry1.insert(0, 'Username')
 entry1.config(fg='grey')
@@ -95,9 +95,12 @@ help_button.pack()
 save_button = tk.Button(root, text="Save to CSV", command=save_to_csv)
 save_button.pack()
 
-entry3.bind("<FocusIn>", lambda e: remove_placeholder(entry3, "Password"))
-entry3.bind("<FocusOut>", lambda e: add_placeholder(entry3, "Password"))
-
+entry1.bind("<FocusIn>", lambda e: remove_placeholder(entry1, "Username"))
+entry1.bind("<FocusOut>", lambda e: add_placeholder(entry1, "Username"))
+entry2.bind("<FocusIn>", lambda e: remove_placeholder(entry2, "Password"))
+entry2.bind("<FocusOut>", lambda e: add_placeholder(entry2, "Password"))
+entry3.bind("<FocusIn>", lambda e: remove_placeholder(entry3, "Confirm password"))
+entry3.bind("<FocusOut>", lambda e: add_placeholder(entry3, "Confirm password"))
 
 
 # Start the Tkinter event loop
