@@ -57,7 +57,7 @@ def remove_placeholder(entry, placeholder):
     # Function to remove the placeholder if it's currently displayed
     if entry.get() == placeholder:
         entry.delete(0, tk.END)
-        entry.config(fg='white')
+        entry.config(fg='white', show="*")
 
 # Create the main window
 root = tk.Tk()
@@ -69,7 +69,7 @@ status_label = tk.Label(root, text="")
 status_label.pack()
 
 # Create and place entry widgets
-entry1 = tk.Entry(root, show="he")
+entry1 = tk.Entry(root)
 entry1.pack()
 entry1.insert(0, 'Username')
 entry1.config(fg='grey')
