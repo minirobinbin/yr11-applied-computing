@@ -1,0 +1,151 @@
+Player_ID,Name,Gender,Team,Age,Role,Position
+1,Alex Johnson,Men's,Stars,24,Batter,Slips
+2,Priya Patel,Women's,Strikers,19,Bowler,Gully
+3,Dwayne Brathwaite,Men's,Hurricanes,28,All-rounder,Point
+4,Sophia Chen,Women's,Renegades,22,Fielder,Cover
+5,Rahul Sharma,Men's,Scorchers,31,Wicket keeper,Mid-off
+6,Shanique Williams,Women's,Sixers,26,Batter,Mid-on
+7,James Taylor,Men's,Stars,17,Bowler,Mid-wicket
+8,Zara Khan,Women's,Strikers,29,All-rounder,Square Leg
+9,Arjun Gupta,Men's,Hurricanes,33,Fielder,Fine Leg
+10,Ava Williams,Women's,Renegades,15,Wicket keeper,Slips
+11,Kevon Richardson,Men's,Scorchers,20,Batter,Gully
+12,Anaya Reddy,Women's,Sixers,34,Bowler,Point
+13,William Clark,Men's,Stars,27,All-rounder,Cover
+14,Shanelle Thompson,Women's,Strikers,23,Fielder,Mid-off
+15,Vikram Choudhury,Men's,Hurricanes,16,Wicket keeper,Mid-on
+16,Grace Turner,Women's,Renegades,30,Batter,Mid-wicket
+17,Samuel Green,Men's,Scorchers,25,Bowler,Square Leg
+18,Zoe Baker,Women's,Sixers,18,All-rounder,Fine Leg
+19,Rohan Kapoor,Men's,Stars,32,Fielder,Slips
+20,Lily Scott,Women's,Strikers,21,Wicket keeper,Gully
+21,Darren Holder,Men's,Hurricanes,29,Batter,Point
+22,Aisha Malik,Women's,Renegades,17,Bowler,Cover
+23,Andrew Mitchell,Men's,Scorchers,35,All-rounder,Mid-off
+24,Kimani Roberts,Women's,Sixers,24,Fielder,Mid-on
+25,Sanjay Patel,Men's,Stars,19,Wicket keeper,Mid-wicket
+26,Abigail King,Women's,Strikers,28,Batter,Square Leg
+27,Matthew Evans,Men's,Hurricanes,22,Bowler,Fine Leg
+28,Neha Desai,Women's,Renegades,33,All-rounder,Slips
+29,Ryan Cooper,Men's,Scorchers,26,Fielder,Gully
+30,Sophie Carter,Women's,Sixers,15,Wicket keeper,Point
+31,Aditya Mehta,Men's,Stars,31,Batter,Cover
+32,Hannah Phillips,Women's,Strikers,20,Bowler,Mid-off
+33,Kieron Blackwood,Men's,Hurricanes,25,All-rounder,Mid-on
+34,Amelia Hughes,Women's,Renegades,34,Fielder,Mid-wicket
+35,Kabir Singh,Men's,Scorchers,18,Wicket keeper,Square Leg
+36,Evelyn Price,Women's,Sixers,29,Batter,Fine Leg
+37,Tyler Reed,Men's,Stars,23,Bowler,Slips
+38,Riya Chatterjee,Women's,Strikers,16,All-rounder,Gully
+39,Luke Bennett,Men's,Hurricanes,30,Fielder,Point
+40,Shernelle Fraser,Women's,Renegades,27,Wicket keeper,Cover
+41,Aryan Malhotra,Men's,Scorchers,21,Batter,Mid-off
+42,Audrey Kelly,Women's,Sixers,32,Bowler,Mid-on
+43,Roston Chase,Men's,Stars,25,All-rounder,Mid-wicket
+44,Leah Watson,Women's,Strikers,19,Fielder,Square Leg
+45,Vivaan Joshi,Men's,Hurricanes,34,Wicket keeper,Fine Leg
+46,Natalie Brooks,Women's,Renegades,22,Batter,Slips
+47,Isaac Foster,Men's,Scorchers,28,Bowler,Gully
+48,Meera Krishnan,Women's,Sixers,17,All-rounder,Point
+49,Caleb Murphy,Men's,Stars,33,Fielder,Cover
+50,Addison Bell,Women's,Strikers,26,Wicket keeper,Mid-off
+51,Dhruv Patel,Men's,Hurricanes,20,Batter,Mid-on
+52,Aubrey Simmons,Women's,Renegades,31,Bowler,Mid-wicket
+53,Alzarri Joseph,Men's,Scorchers,24,All-rounder,Square Leg
+54,Savannah Powell,Women's,Sixers,35,Fielder,Fine Leg
+55,Aarav Sharma,Men's,Stars,18,Wicket keeper,Slips
+56,Brooklyn Griffin,Women's,Strikers,29,Batter,Gully
+57,Liam Peterson,Men's,Hurricanes,23,Bowler,Point
+58,Isha Reddy,Women's,Renegades,16,All-rounder,Cover
+59,Gabriel Stewart,Men's,Scorchers,32,Fielder,Mid-off
+60,Hayley Matthews,Women's,Sixers,27,Wicket keeper,Mid-on
+61,Vihaan Kapoor,Men's,Stars,21,Batter,Mid-wicket
+62,Nora Sullivan,Women's,Strikers,30,Bowler,Square Leg
+63,Mason Wells,Men's,Hurricanes,25,All-rounder,Fine Leg
+64,Luna Fisher,Women's,Renegades,19,Fielder,Slips
+65,Arnav Choudhury,Men's,Scorchers,34,Wicket keeper,Gully
+66,Stella Long,Women's,Sixers,22,Batter,Point
+67,Sheldon Cottrell,Men's,Stars,28,Bowler,Cover
+68,Ananya Gupta,Women's,Strikers,17,All-rounder,Mid-off
+69,Landon Butler,Men's,Hurricanes,33,Fielder,Mid-on
+70,Aurora Russell,Women's,Renegades,26,Wicket keeper,Mid-wicket
+71,Reyansh Malhotra,Men's,Scorchers,20,Batter,Square Leg
+72,Violet Howard,Women's,Sixers,31,Bowler,Fine Leg
+73,Grayson Perry,Men's,Stars,24,All-rounder,Slips
+74,Willow Sanders,Women's,Strikers,35,Fielder,Gully
+75,Shimron Hetmyer,Men's,Hurricanes,18,Wicket keeper,Point
+76,Zara Malik,Women's,Renegades,29,Batter,Cover
+77,Ezra Gordon,Men's,Scorchers,23,Bowler,Mid-off
+78,Penelope Freeman,Women's,Sixers,16,All-rounder,Mid-on
+79,Maverick Chapman,Men's,Stars,32,Fielder,Mid-wicket
+80,Anika Desai,Women's,Strikers,27,Wicket keeper,Square Leg
+81,Jaxon Spencer,Men's,Hurricanes,21,Batter,Fine Leg
+82,Stafanie Taylor,Women's,Renegades,30,Bowler,Slips
+83,Vivaan Mehta,Men's,Scorchers,25,All-rounder,Gully
+84,Lila Gonzales,Women's,Sixers,19,Fielder,Point
+85,Silas Mcdonald,Men's,Stars,34,Wicket keeper,Cover
+86,Kavya Chatterjee,Women's,Strikers,22,Batter,Mid-off
+87,Jason Holder,Men's,Hurricanes,28,Bowler,Mid-on
+88,Delilah Hoffman,Women's,Renegades,17,All-rounder,Mid-wicket
+89,Jasper Pearson,Men's,Scorchers,33,Fielder,Square Leg
+90,Athena Lawson,Women's,Sixers,26,Wicket keeper,Fine Leg
+91,Arjun Joshi,Men's,Stars,20,Batter,Slips
+92,Ellie Watts,Women's,Strikers,31,Bowler,Gully
+93,Declan Bates,Men's,Hurricanes,24,All-rounder,Point
+94,Deandra Dottin,Women's,Renegades,35,Fielder,Cover
+95,Advait Krishnan,Men's,Scorchers,18,Wicket keeper,Mid-off
+96,Daisy Mckinney,Women's,Sixers,29,Batter,Mid-on
+97,Rhett Rodgers,Men's,Stars,23,Bowler,Mid-wicket
+98,Lydia Zimmerman,Women's,Strikers,16,All-rounder,Square Leg
+99,Sunil Narine,Men's,Hurricanes,32,Fielder,Fine Leg
+100,Saanvi Reddy,Women's,Renegades,27,Wicket keeper,Slips
+101,Carlos Brathwaite,Men's,Stars,29,All-rounder,Gully
+102,Anjali Sharma,Women's,Strikers,24,Batter,Point
+103,Oliver White,Men's,Hurricanes,19,Bowler,Cover
+104,Mariah Ramdin,Women's,Renegades,33,Fielder,Mid-off
+105,Ishaan Patel,Men's,Scorchers,26,Wicket keeper,Mid-on
+106,Chloe Anderson,Women's,Sixers,21,All-rounder,Mid-wicket
+107,Rovman Powell,Men's,Stars,28,Batter,Square Leg
+108,Tanvi Deshmukh,Women's,Strikers,17,Bowler,Fine Leg
+109,Harrison Campbell,Men's,Hurricanes,31,Fielder,Slips
+110,Shakera Selman,Women's,Renegades,25,Wicket keeper,Gully
+111,Arjun Nair,Men's,Scorchers,22,All-rounder,Point
+112,Megan Schutt,Women's,Sixers,30,Bowler,Cover
+113,Evin Lewis,Men's,Stars,27,Batter,Mid-off
+114,Smriti Mandhana,Women's,Strikers,23,Fielder,Mid-on
+115,Xavier Bartlett,Men's,Hurricanes,20,Wicket keeper,Mid-wicket
+116,Britney Cooper,Women's,Renegades,32,All-rounder,Square Leg
+117,Rishabh Pant,Men's,Scorchers,24,Batter,Fine Leg
+118,Alyssa Healy,Women's,Sixers,29,Wicket keeper,Slips
+119,Nicholas Pooran,Men's,Stars,25,All-rounder,Gully
+120,Jemimah Rodrigues,Women's,Strikers,20,Batter,Point
+121,Josh Hazlewood,Men's,Hurricanes,31,Bowler,Cover
+122,Shamilia Connell,Women's,Renegades,28,Fielder,Mid-off
+123,Shreyas Iyer,Men's,Scorchers,26,All-rounder,Mid-on
+124,Ellyse Perry,Women's,Sixers,30,All-rounder,Mid-wicket
+125,Andre Russell,Men's,Stars,33,All-rounder,Square Leg
+126,Harmanpreet Kaur,Women's,Strikers,32,Batter,Fine Leg
+127,Pat Cummins,Men's,Hurricanes,28,Bowler,Slips
+128,Anisa Mohammed,Women's,Renegades,33,Bowler,Gully
+129,Hardik Pandya,Men's,Scorchers,27,All-rounder,Point
+130,Sophie Devine,Women's,Sixers,32,All-rounder,Cover
+131,Shai Hope,Men's,Stars,27,Wicket keeper,Mid-off
+132,Deepti Sharma,Women's,Strikers,23,All-rounder,Mid-on
+133,Kane Richardson,Men's,Hurricanes,30,Bowler,Mid-wicket
+134,Natasha McLean,Women's,Renegades,26,Batter,Square Leg
+135,Yuzvendra Chahal,Men's,Scorchers,31,Bowler,Fine Leg
+136,Meg Lanning,Women's,Sixers,29,Batter,Slips
+137,Oshane Thomas,Men's,Stars,24,Bowler,Gully
+138,Radha Yadav,Women's,Strikers,21,Bowler,Point
+139,Glenn Maxwell,Men's,Hurricanes,32,All-rounder,Cover
+140,Hayley Jensen,Women's,Renegades,28,All-rounder,Mid-off
+141,Shubman Gill,Men's,Scorchers,22,Batter,Mid-on
+142,Ashleigh Gardner,Women's,Sixers,24,All-rounder,Mid-wicket
+143,Kemar Roach,Men's,Stars,33,Bowler,Square Leg
+144,Poonam Yadav,Women's,Strikers,30,Bowler,Fine Leg
+145,Marcus Stoinis,Men's,Hurricanes,32,All-rounder,Slips
+146,Shabnim Ismail,Women's,Renegades,32,Bowler,Gully
+147,Washington Sundar,Men's,Scorchers,22,All-rounder,Point
+148,Beth Mooney,Women's,Sixers,27,Wicket keeper,Cover
+149,Fabian Allen,Men's,Stars,26,All-rounder,Mid-off
+150,Shafali Verma,Women's,Strikers,17,Batter,Mid-on
