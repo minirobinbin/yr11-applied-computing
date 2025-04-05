@@ -1,0 +1,29 @@
+Sixers Women's Under 50 Team      02-04-25
+-------------------------------------------
+Player            | Age | Role
+-------------------------------------------
+Shanique Williams    26   Batter
+Anaya Reddy          34   Bowler
+Zoe Baker            18   All-rounder
+Kimani Roberts       24   Fielder
+Sophie Carter        15   Wicket keeper
+Evelyn Price         29   Batter
+Audrey Kelly         32   Bowler
+Meera Krishnan       17   All-rounder
+Savannah Powell      35   Fielder
+Hayley Matthews      27   Wicket keeper
+Stella Long          22   Batter
+Violet Howard        31   Bowler
+Penelope Freeman     16   All-rounder
+Lila Gonzales        19   Fielder
+Athena Lawson        26   Wicket keeper
+Daisy Mckinney       29   Batter
+Chloe Anderson       21   All-rounder
+Megan Schutt         30   Bowler
+Alyssa Healy         29   Wicket keeper
+Ellyse Perry         30   All-rounder
+Sophie Devine        32   All-rounder
+Meg Lanning          29   Batter
+Ashleigh Gardner     24   All-rounder
+Beth Mooney          27   Wicket keeper
+-------------------------------------------
