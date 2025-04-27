@@ -1,5 +1,4 @@
-# 12d6f5cd001d2ed789d13036fe8fbc3f
-API_key= "12d6f5cd001d2ed789d13036fe8fbc3f"
+API_key= ""
 import requests
 import tkinter as tk
 
